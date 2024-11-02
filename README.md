@@ -1,2 +1,2 @@
 # whatsappwhisper
-Converts whatsapp speech messages in a text file.
+Converts whatsapp speech messages in a text file using whisper.
